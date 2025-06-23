@@ -1,4 +1,4 @@
-REESTAR | Artisan Italian Restaurant Website 
+         REESTAR | Artisan Italian Restaurant Website 
                                      
        A responsive, mouth-watering showcase of authentic Italian cuisine
 
@@ -20,5 +20,6 @@ Foodies who appreciate minimalist UI with maximum flavor
 
 Tech Stack:
 HTML5 CSS3 Flexbox/Grid Google Fonts
+Link:https://gopika280.github.io/reestar-restaurant/
 
 "Bringing the taste of Italy to every pixel"
